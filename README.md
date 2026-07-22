@@ -50,7 +50,7 @@ This dashboard focuses on customer activity, engagement, service usage, and tran
 
 </> Markdown 
 
-[View the FinTech Performance Dashboard Presentation](./Fintech_Presentataion.pdf)
+[View the FinTech Performance Dashboard Presentation](./Fintech_Presentation.pdf)
 
 
 
